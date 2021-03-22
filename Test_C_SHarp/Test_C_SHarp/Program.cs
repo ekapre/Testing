@@ -6,7 +6,7 @@ namespace Test_C_SHarp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("NEW LOG!");
         }
     }
 }
